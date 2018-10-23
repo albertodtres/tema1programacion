@@ -1,6 +1,6 @@
-# tipoDatos2018-19
+# PROGRAMACIÓN
 
-Repositorio del tema tipos datos
+Curso 2018 - 2019
 
 Programación
 # tema1programacion
